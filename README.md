@@ -24,12 +24,15 @@
 - ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/48b8e3f0-a4c8-4e5e-94be-0911b54b6aea)
 - Tiếp tục click Next
 - ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/a76ac527-b68d-45f4-b1ec-19cc2710ba5e)
-
-
-
-
-
-
-
-
-
+- Bấm Install để cài đặt
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/15c4eea8-5b51-48a8-99be-9f10181d42c7)
+- Chờ phần mềm cài đặt xong
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/8f4aa5a9-d79b-49a8-a400-124e9c4092ac)
+- Tick vào ô bên dưới > click Finish
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/a76c9143-5740-4f8c-9418-90f6dcccf882)
+- Bấm vào dòng như ảnh
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/77f9b8ee-8a0c-49d3-88fe-2f911678067f)
+- Bấm [vào đây để lấy key](https://github.com/BsNgChiThanh/UltraisoPremium/blob/IMP/key.txt)
+- Nhập vào 2 dòng tương ứng > click OK
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/2bc136ee-c611-4791-8bd4-07f0192d0d04)
+- Vậy là xong!
