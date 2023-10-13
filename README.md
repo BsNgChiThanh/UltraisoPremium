@@ -15,7 +15,18 @@
 - Hỗ trợ thêm cho DVD + R DL và DVD + R9 phương tiện hai lớp. UltraISO hiện có thể ghi vào hai mặt của phương tiện DL và R9.
 - Hỗ trợ thêm cho phương tiện Blu-ray BD-ROM, BD-RE, BD-R và BD-R DL. UltraISO hiện có thể xóa, ghi và đọc đĩa Blu-ray và hình ảnh ISO BluRay ở cả chế độ đĩa (với trình điều khiển BluRay ảo được cài đặt) hoặc chế độ hình ảnh đĩa (không có trình điều khiển ảo).
 
-## Hướng dẫn tải UltraISO Premium Edition 9.7.6 ##
+## Hướng dẫn tải UltraISO Premium Edition 9.7.6.3812 ##
+- Bấm [vào đây để download](https://github.com/BsNgChiThanh/UltraisoPremium/blob/IMP/uiso9.7.6.3812pe.exe), làm theo hình bên dưới:
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/74837a5a-cb86-495f-9b09-1c469b068af7)
+- Cài đặt bình thường.
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/b45eb4d7-7afd-4829-b8a8-0f62e1ce3a42)
+- Click Next
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/48b8e3f0-a4c8-4e5e-94be-0911b54b6aea)
+- Tiếp tục click Next
+- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/a76ac527-b68d-45f4-b1ec-19cc2710ba5e)
+
+
+
 
 
 
