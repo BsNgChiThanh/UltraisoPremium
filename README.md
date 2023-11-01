@@ -16,8 +16,7 @@
 - Hỗ trợ thêm cho phương tiện Blu-ray BD-ROM, BD-RE, BD-R và BD-R DL. UltraISO hiện có thể xóa, ghi và đọc đĩa Blu-ray và hình ảnh ISO BluRay ở cả chế độ đĩa (với trình điều khiển BluRay ảo được cài đặt) hoặc chế độ hình ảnh đĩa (không có trình điều khiển ảo).
 
 ## Hướng dẫn tải UltraISO Premium Edition 9.7.6.3812 ##
-- Bấm [vào đây để download](https://github.com/BsNgChiThanh/UltraisoPremium/blob/IMP/uiso9.7.6.3812pe.exe), làm theo hình bên dưới:
-- ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/74837a5a-cb86-495f-9b09-1c469b068af7)
+- Bấm [vào đây để download](https://raw.githubusercontent.com/BsNgChiThanh/UltraisoPremium/IMP/uiso9.7.6.3812pe.exe) 
 - Cài đặt bình thường.
 - ![image](https://github.com/BsNgChiThanh/UltraisoPremium/assets/82578024/b45eb4d7-7afd-4829-b8a8-0f62e1ce3a42)
 - Click Next
